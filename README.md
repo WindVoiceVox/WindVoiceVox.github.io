@@ -11,6 +11,31 @@
 
 【追記】 Xで見つけたプロンプトの例を参考にしながらGeminiと相談して、やりたいことをフォーマットに沿った英語の説明文にしてもらったら、だいぶクオリティも上がりました。これが<a href="https://sora.chatgpt.com/p/s_68e2653a1e448191bcd82d9affe4c114">時代劇風</a>の作例です。でもやっぱり日本刀を抜いていないし、知らないことは描きにくいということかと思います。
 
+【追記２】 プロンプトをGeminiと相談して出来上がったのが<a href="https://sora.chatgpt.com/p/s_68e26d0c31d481918ff234227c12e805">こちら</a>。なお、プロンプトもこのしておきます。もともとは別の方の公開しているプロンプトでしたが、Geminiと相談して書き換えました。
+
+<details>
+<summary>【参考】時代劇のワンシーン</summary>
+Japanese Jidaigeki Film, a scene from an old black-and-white movie:
+
+seconds: 0-2
+shot: Wide Establishing Shot
+description: At the shore of a lake, a lone samurai with a katana at his right hip stands facing the distant Mt. Fuji. He lowers his stance, preparing to draw his blade.
+
+seconds: 2-4
+shot: Medium Shot - Action
+description: The samurai draws his katana in a single, explosive motion. The blade is now in his hand, and the scabbard at his hip is empty. He glares at the mountain and powerfully slashes the blade downward from top-left to bottom-right.
+dialogue: 「ハッ！」
+
+seconds: 4-6
+shot: Wide Shot - Mt. Fuji
+description: The distant Mt. Fuji splits apart along a diagonal line, mirroring the samurai's slash. The severed peak slides sideways with a deep, earth-shaking rumble.
+
+seconds: 6-8
+shot: Close-Up - Samurai
+description: The samurai smoothly returns his katana to its scabbard.
+dialogue: 「これが修行の成果か……！」
+</details>
+
 Sora 2で作られた動画には現在それとわかるマークが埋め込まれますが、とはいえこれが消されたり、類似した後発サービスによってつくられたものも出てくると思われます。
 
 当初、一日100回まで作成できるということだったようですが、今日10/5からは1日30回に変更されているとの話があります。一部の人が執着的に使っており、それを調整しているということだと思われます。
