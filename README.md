@@ -15,6 +15,7 @@
 
 <details>
 <summary>【参考】時代劇のワンシーン</summary>
+<pre>
 Japanese Jidaigeki Film, a scene from an old black-and-white movie:
 
 seconds: 0-2
@@ -34,6 +35,7 @@ seconds: 6-8
 shot: Close-Up - Samurai
 description: The samurai smoothly returns his katana to its scabbard.
 dialogue: 「これが修行の成果か……！」
+</pre>
 </details>
 
 Sora 2で作られた動画には現在それとわかるマークが埋め込まれますが、とはいえこれが消されたり、類似した後発サービスによってつくられたものも出てくると思われます。
