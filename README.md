@@ -5,7 +5,7 @@
 # 2025年12月
 ## 2025/12/14
 ### Nano banana pro
-<img src="/assets/images/image_20251214.png" alt="Google Nano banana illustration"/>
+![Google Nano banana illustration](/assets/images/image_20251214.png)
 「ビジネスのハウツー本用の４色刷りのイラスト」という指定で描いてもらうとこんな感じのイラストが描ける。マンガ本やスイッチを置いて、下半身は部屋着のままで平然とビジネス会議に出席する様子。
 
 # 2025年11月
